@@ -82,7 +82,7 @@
     "nanoid": "^3.1.12",
     "nodemailer": "^6.4.16",
     "nodemon": "^2.0.6",
-    "objection": "^2.2.3",
+    "objection": "^3.0.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pdf-lib": "^1.14.0",

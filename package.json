@@ -87,7 +87,7 @@
     "passport-local": "^1.0.0",
     "pdf-lib": "^1.14.0",
     "pg": "^8.3.3",
-    "plaid": "^8.0.0",
+    "plaid": "^9.0.0",
     "pretty-repl": "^2.4.0",
     "react-router-dom": "^5.2.0",
     "repl": "^0.1.3",

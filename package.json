@@ -81,7 +81,7 @@
     "morgan": "^1.10.0",
     "nanoid": "^3.1.12",
     "nodemailer": "^6.4.16",
-    "nodemon": "^2.0.6",
+    "nodemon": "^3.0.0",
     "objection": "^2.2.3",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",

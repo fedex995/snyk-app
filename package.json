@@ -54,7 +54,7 @@
     "@types/throng": "^5.0.0",
     "@types/uuid": "^8.3.0",
     "apollo-server-express": "^2.17.0",
-    "argon2": "^0.27.0",
+    "argon2": "^0.40.1",
     "aws-sdk": "^2.816.0",
     "bignumber.js": "^9.0.1",
     "bull": "^3.20.0",
